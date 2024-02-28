@@ -13701,6 +13701,10 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
+#card-questionnaire {
+  background-color: #222831;
+}
+
 .bg-body-tertiary {
   --bs-bg-opacity: 1;
   background-color: #222831 !important;

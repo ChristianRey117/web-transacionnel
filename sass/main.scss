@@ -30,7 +30,9 @@ $third_color: #00ADB5;
 $body_color: #EEEEEE;
 
 
-
+#card-questionnaire{
+    background-color: $primary_color;
+}
 .bg-body-tertiary{
     --bs-bg-opacity: 1;
     background-color: $primary_color !important;

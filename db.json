@@ -1,0 +1,174 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "author": "Christopher Nolan",
+      "date": "2010",
+      "content": "Dans ce thriller de science-fiction, Dom Cobb (joué par Leonardo DiCaprio) dirige une équipe de voleurs spécialisés dans l'intrusion dans les rêves des gens pour leur voler leurs secrets les plus profonds. Le film explore la nature de la réalité et les limites de l'esprit humain."
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "author": "Frank Darabont",
+      "date": "1994",
+      "content": "Basé sur une histoire de Stephen King, ce film suit la vie d'Andy Dufresne (joué par Tim Robbins), un homme injustement condamné à la prison à vie. L'intrigue se concentre sur son amitié avec un codétenu et sur sa détermination à garder espoir dans les circonstances les plus désespérées."
+    },
+    {
+      "id": 3,
+      "title": "La La Land",
+      "author": "Damien Chazelle",
+      "date": "2016",
+      "content": "Cette comédie musicale romantique suit l'histoire de Mia (interprétée par Emma Stone), une actrice en herbe, et de Sebastian (interprété par Ryan Gosling), un pianiste de jazz passionné, alors qu'ils poursuivent leurs rêves à Los Angeles. Le film allie une musique enchanteresse à un récit émouvant."
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "author": "Christopher Nolan",
+      "date": "2008",
+      "content": "Deuxième volet de la trilogie Batman de Christopher Nolan, The Dark Knight met en scène l'emblématique Joker incarné par Heath Ledger. Le film examine la frontière ténue entre le héros et le méchant, alors que Batman (Christian Bale) lutte contre la menace croissante de la criminalité à Gotham City."
+    },
+    {
+      "id": 5,
+      "title": "Titanic",
+      "author": "James Cameron",
+      "date": "1997",
+      "content": "Cette épopée romantique se déroule lors du fatidique voyage inaugural du Titanic. Le film suit l'histoire d'amour entre Jack (joué par Leonardo DiCaprio) et Rose (jouée par Kate Winslet) alors qu'ils font face aux défis de la classe sociale et à la tragédie du naufrage du célèbre navire."
+    },
+    {
+      "id": 6,
+      "title": "The Grand Budapest Hotel",
+      "author": "Wes Anderson",
+      "date": "2014",
+      "content": "Cette comédie visuellement unique relate les aventures rocambolesques de Gustave H. (interprété par Ralph Fiennes), le concierge d'un hôtel de luxe dans l'Europe de l'entre-deux-guerres. Le film allie un humour absurde à un style esthétique distinctif."
+    },
+    {
+      "id": 7,
+      "title": "Coco",
+      "author": "Lee Unkrich, Adrian Molina",
+      "date": "2017",
+      "content": "Coco est un film d'animation Pixar qui raconte l'histoire de Miguel, un jeune garçon qui aspire à devenir musicien malgré l'interdiction de sa famille. L'intrigue l'emmène au pays des morts et explore l'importance de la famille et des traditions dans la culture mexicaine."
+    },
+    {
+      "title": "100",
+      "author": "prueba",
+      "content": "prueba",
+      "date": "19/2/2024",
+      "id": 8
+    },
+    {
+      "title": "Prueba1",
+      "author": "prueba1",
+      "content": "Prueba1",
+      "date": "19/2/2024",
+      "id": 9
+    },
+    {
+      "title": "Prueba1",
+      "author": "prueba1",
+      "content": "Prueba1",
+      "date": "19/2/2024",
+      "id": 10
+    },
+    {
+      "title": "Prueba2",
+      "author": "prueba2",
+      "content": "Prueba2",
+      "date": "19/2/2024",
+      "id": 11
+    },
+    {
+      "title": "Prueba2",
+      "author": "Prueba2",
+      "content": "Prueba2",
+      "date": "21/2/2024",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "id_publication": 1,
+      "date": "2023-01-14",
+      "content": "Inception est un labyrinthe mental fascinant. Nolan tisse habilement des couches de rêves dans les rêves, nous emmenant dans une odyssée visuelle et philosophique. L'exécution magistrale et les performances solides font de ce film un voyage inoubliable."
+    },
+    {
+      "id": 2,
+      "id_publication": 2,
+      "date": "2020-02-14",
+      "content": "Cette œuvre intemporelle de Darabont est un témoignage du pouvoir de l'espoir. La narration captivante et les performances émouvantes, notamment celle de Tim Robbins, font de la rédemption à Shawshank une expérience cinématographique unique."
+    },
+    {
+      "id": 3,
+      "id_publication": 3,
+      "date": "2024-02-14",
+      "content": "La La Land est un charmant hommage au vieux Hollywood. Chazelle mélange musique, romance et visuels éblouissants pour créer une expérience cinématographique moderne et nostalgique. Stone et Gosling brillent dans cette ode à l'art et à l'amour."
+    },
+    {
+      "id": 4,
+      "id_publication": 4,
+      "date": "2024-02-14",
+      "content": "Avec une interprétation magistrale d'Heath Ledger en tant que Joker, The Dark Knight se démarque comme un joyau du cinéma de super-héros. Nolan élève le genre, explorant la dualité morale de Batman dans un Gotham en proie au chaos."
+    },
+    {
+      "id": 5,
+      "id_publication": 5,
+      "date": "2024-02-14",
+      "content": "James Cameron fusionne romance et tragédie dans cette épopée inoubliable. La chimie entre DiCaprio et Winslet, associée à des effets visuels impressionnants, fait perdurer l'histoire du Titanic comme l'une des plus émouvantes."
+    },
+    {
+      "id": 6,
+      "id_publication": 6,
+      "date": "2024-02-14",
+      "content": "Wes Anderson déploie son style visuel distinctif dans cette comédie excentrique. La narration ingénieuse et la distribution éclectique, dirigée par Ralph Fiennes, font de The Grand Budapest Hotel un régal esthétique et narratif."
+    },
+    {
+      "id": 7,
+      "id_publication": 7,
+      "date": "2024-02-14",
+      "content": "Coco célèbre la culture et les traditions mexicaines de manière magnifique. L'animation impeccable et la musique émouvante se combinent pour raconter une histoire poignante sur l'importance de la famille et de la mémoire."
+    },
+    {
+      "id": 8,
+      "id_publication": 1,
+      "date": "2024-02-14",
+      "content": "La complexité d'Inception est étonnante. Chaque détail compte, et la manière dont Nolan joue avec la perception du temps et de la réalité crée une expérience cinématographique unique et stimulante."
+    },
+    {
+      "id": 9,
+      "id_publication": 2,
+      "date": "2024-02-14",
+      "content": "La rédemption à Shawshank est un voyage émotionnel. La construction des personnages, la narration méticuleuse et la direction réfléchie font de ce film un classique qui ne vieillit jamais."
+    },
+    {
+      "id": 10,
+      "id_publication": 3,
+      "date": "2024-02-14",
+      "content": "La La Land est un rêve musical devenu réalité. Chazelle capture la magie du cinéma classique tout en livrant une histoire contemporaine d'amour et de sacrifice. Stone et Gosling insufflent vie à la passion artistique."
+    },
+    {
+      "id": 11,
+      "id_publication": 4,
+      "date": "2024-02-14",
+      "content": "Le chaos personnifié par Heath Ledger élève The Dark Knight à un niveau supérieur. Le film redéfinit non seulement le genre des super-héros, mais offre également une exploration approfondie de la morale et de l'identité."
+    },
+    {
+      "id": 12,
+      "id_publication": 5,
+      "date": "2024-02-14",
+      "content": "Titanic est une épopée romantique épique qui reste inoubliable. Cameron parvient à équilibrer l'histoire d'amour avec la tragédie historique, créant une expérience cinématographique qui perdure dans le temps."
+    },
+    {
+      "id_publication": "1",
+      "content": "Inceptio c'est a tres bon film",
+      "date": "22/2/2024",
+      "id": 13
+    },
+    {
+      "id_publication": "1",
+      "content": "Prueba",
+      "date": "27/2/2024",
+      "id": 14
+    }
+  ]
+}
